@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<!--
-**rafaelluiis2315/rafaelluiis2315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Estatísticas do GitHub do Anurag](https://github-readme-stats.vercel.app/api rafaelluiis2315
+=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
 
-ats
-Stats Streak Stats
+
 
 
 Here are some ideas to get you started:
