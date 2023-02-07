@@ -15,7 +15,47 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>                                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50" height="50"/>                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>                                             
           
 <details open>
-<summary><b> Projetos :point_right:</b></summary>
+<summary><b> Projetos Django :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Nome do Projeto</th>
+      <th>Skills utilizada</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=''></a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<details open>
+<summary><b> Projetos Spring :point_right:</b></summary>
+<table>
+  <thead>
+    <tr>
+      <th>Nome do Projeto</th>
+      <th>Skills utilizada</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href=''></a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+
+<details open>
+<summary><b> Projetos React :point_right:</b></summary>
 <table>
   <thead>
     <tr>
