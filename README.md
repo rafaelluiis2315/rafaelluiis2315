@@ -26,9 +26,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=''></a></td>
-      <td></td>
-      <td></td>
+      <td><a href='https://github.com/rafaelluiis2315/Projeto_Senac'>Integrifolio</a></td>
+      <td>Gerenciamento de rotas, integração com Banco de dados e Gerenciamento de arquivos e imagens</td>
+      <td>Site de gerenciamento projetos de instituições de ensino</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rafaelluiis2315/Project_IceCreamShop'>Sorveteria</a></td>
+      <td>Gerenciamento de rotas, configuracao de arquivos estaticos e integração com Banco de dados</td>
+      <td>Site para Mostruario de uma Sorveteria</td>
+    </tr>
+    <tr>
+      <td><a href='https://github.com/rafaelluiis2315/Livraria'>Livraria</a></td>
+      <td>CRUD, gerenciamento de rotas e integração com templates e Bootstrap</td>
+      <td>Sistema de gerenciamento livros, que permite adicionar, editar e deletar.</td>
     </tr>
   </tbody>
 </table>
@@ -46,9 +56,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=''></a></td>
-      <td></td>
-      <td></td>
+      <td><a href='https://github.com/rafaelluiis2315/Sistema_de_usuarios_spring'>Gerenciamento de usuários</a></td>
+      <td>CRUD, gerenciamento de rotas e integração com Thymeleaf e Bootstrap</td>
+      <td>Um sistema de usuários simples que permite adicionar, editar e deletar.</td>
     </tr>
   </tbody>
 </table>
@@ -66,9 +76,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href=''></a></td>
-      <td></td>
-      <td></td>
+      <td><a href='https://github.com/rafaelluiis2315/secret-word'>Secret Word</a></td>
+      <td>Hooks basicos, validação de input, Gerenciamento de estados</td>
+      <td>
+            Secret Word ou Palavra secreta, é uma jogo web desenvolvida com React, com a tematica de jogos de adivinhar palavras.
+      </td>
     </tr>
   </tbody>
 </table>
