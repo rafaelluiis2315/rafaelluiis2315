@@ -260,7 +260,7 @@ Technical reference for engineering and product. Leading the team's transition t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rafaelluiis2315&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-trophies.vercel.app/?username=rafaelluiis2315&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -270,7 +270,7 @@ Technical reference for engineering and product. Leading the team's transition t
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelluiis2315&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://raw.githubusercontent.com/rafaelluiis2315/rafaelluiis2315/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
 
 </div>
 
